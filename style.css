@@ -1,0 +1,101 @@
+.mr-5 {
+    margin-right: 6rem;
+}
+
+nav a:hover {
+    color: gray;
+    cursor: pointer;
+}
+
+nav a {
+    font-size: 1.5rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem 5rem;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.title-font {
+    font-size: 4rem;
+}
+
+.your {
+    color: #2c5f52;
+    border: 0.15rem dashed #617671;
+    padding: 0.5rem 4rem;
+    border-radius: 10rem;
+}
+
+.para {
+    line-height: 6rem;
+}
+
+.flex-btn {
+    display: flex;
+    margin-left: 10rem;
+}
+
+.flex-drive {
+    display: flex;
+    justify-content: space-around;
+    background-color: #FFC0A1;
+    padding: 2rem;
+    border-radius: 10rem;
+}
+
+.outer {
+    width: 50%;
+    padding: 0.5rem;
+    margin: auto;
+    margin-top: 4rem;
+    border: 0.1rem dashed black;
+    border-radius: 10rem;
+}
+
+.mt {
+    margin-top: 4rem;
+}
+
+.flex-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer {
+    background-color: #f9fcfc;
+    margin-bottom: 2rem;
+}
+
+.sign {
+    font-size: 2rem;
+    color: #2c5f52;
+    font-weight: 700;
+    padding: 1rem;
+}
+
+.para1 {
+    font-size: 1.2rem;
+}
+
+.numbers {
+width: 31px;
+height: 44px;
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 700;
+font-size: 3rem;
+line-height: 49px;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-right: 2rem;
+}
